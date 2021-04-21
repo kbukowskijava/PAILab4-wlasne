@@ -1,0 +1,1 @@
+CREATE DATABASE bookstore DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_polish_ci; USE bookstore;
